@@ -1,14 +1,23 @@
 # GitHub 新奇项目日报
 
-每天北京时间 12:00 自动检索 GitHub 上**最近 7 天内创建、star < 50** 的新奇项目，经 AI 语义筛选后收录真正有意思的 5-10 个。
+每天北京时间自动检索 GitHub 上**最近 7 天内创建、star < 50** 的新奇项目，经 AI 语义筛选后收录真正有意思的项目。
 
 ## 最近 7 天收录
 
 | 日期 | 项目 | 一句话说明 |
 |------|------|------------|
+| 2026-08-10 | [Crack-Pantelimon/bespoke-mcp](https://github.com/Crack-Pantelimon/bespoke-mcp) | LLM 直接驾驶 Bespoke Synth 合成器做音乐，附 43 首全 AI 编曲成品 |
+| 2026-08-10 | [roisincrtai/zetagpt](https://github.com/roisincrtai/zetagpt) | 无位置编码（NoPE）LLM 完整训练管线，状态空间+注意力混合 |
+| 2026-08-10 | [T-64/bili-fact-checker](https://github.com/T-64/bili-fact-checker) | B 站视频转可核对的声明清单，证据分级标注 |
+| 2026-08-10 | [cyberhatc/mctx](https://github.com/cyberhatc/mctx) | token 优化的 AI agent 记忆文件格式，seek 索引+零依赖 Rust 库 |
+| 2026-08-10 | [binsani/ot-sentinel](https://github.com/binsani/ot-sentinel) | 被动式 OT/ICS 资产发现与漏洞关联平台 |
+| 2026-08-10 | [litterairplane/prompt-attack-lab](https://github.com/litterairplane/prompt-attack-lab) | 系统提示词批量攻击自检实验室（300 用例+分层加固建议） |
+| 2026-08-10 | [AMTOPA/abyss-miner](https://github.com/AMTOPA/abyss-miner) | 地底钻探搜打撤游戏「深渊矿工」 |
+| 2026-08-10 | [josephsapinoso/kalshi-cockpit](https://github.com/josephsapinoso/kalshi-cockpit) | 体育博彩盘口测量仪器，防自我欺骗的 edge 计算 |
+| 2026-08-10 | [PoeticJustice79/MHWmodfixer](https://github.com/PoeticJustice79/MHWmodfixer) | 自动修复被游戏更新破坏的怪猎荒野外观 mod |
 | 2026-08-10 | [roycho96/nvfp4moe](https://github.com/roycho96/nvfp4moe) | Blackwell B200 训练级 NVFP4 MoE 内核，吞吐较 TE 快约 6 倍 |
 | 2026-08-10 | [yangheng95/opencorvus](https://github.com/yangheng95/opencorvus) | Mission/Squad 模型的多 agent 编排桌面应用 |
-| 2026-08-10 | [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse) | 一个 flake input 拿遍 nixpkgs 历史任意版本 |
+| 2026-08-10 | [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse) | 一次 flake input 拿遍 nixpkgs 历史任意版本 |
 | 2026-08-10 | [shaoyanxing/mtefx](https://github.com/shaoyanxing/mtefx) | 零 COM 依赖的 MathType 公式批量转 OMML 引擎 |
 | 2026-08-10 | [MikanseiLaboratory/openmediatransport-rs](https://github.com/MikanseiLaboratory/openmediatransport-rs) | OMT 视频传输协议的纯 Rust 实现 |
 | 2026-08-10 | [Diego22rct/tenets](https://github.com/Diego22rct/tenets) | 静态分析自动标记 SOLID/DRY/KISS/YAGNI 违反 |
