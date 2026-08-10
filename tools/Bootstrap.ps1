@@ -22,6 +22,7 @@
 param(
     [Parameter(Mandatory = $true)]
     [string]$Token,
+    [string]$GitHubUser = "19960705",
     [string]$RepoName = "github-gems",
     [string]$RepoDescription = "每日 GitHub 新奇项目日报：检索最近 7 天创建、star 1-49 的新奇项目",
     [string]$RepoDir = "C:\Users\Administrator\repos\github-gems",
@@ -75,18 +76,20 @@ catch {
     }
 }
 
-# ---------- 4. 配置 remote 并推送 ----------
+$repoUrl = "https://github.com/$GitHubUser/$RepoName.git"
+$authUrl = "https://$Token@github.com/$GitHubUser/$RepoName.git"
+
 Push-Location $RepoDir
 try {
-    # 用带 token 的 URL 做首次推送并让 GCM 缓存（不落盘到 git config）
-    git config remote.origin.url "https://github.com/$RepoName.git" 2>$null
-    git remote remove origin 2>$null
-    git remote add origin "https://github.com/$RepoName.git"
+    # PS 5.1 下 $ErrorActionPreference='Stop' 会把 git 的非零退出码(stderr)当错误，
+    # 因此用 cmd /c 包装忽略 already-exists / no-such-remote 类提示
+    cmd /c "git remote remove origin 2>nul"
+    cmd /c "git remote add origin $repoUrl"
     git branch -M main
 
-    # 用带 token 的 URL 触发推送（凭据管理器会缓存，之后定时任务可无交互推送）
-    git -c credential.helper=manager push -u "https://$Token@github.com/$RepoName.git" main
-    Write-Host "首次推送完成！" -ForegroundColor Green
+    # 用带 token 的 URL 触发首次推送（凭据管理器 GCM 会缓存，之后定时任务可无交互推送）
+    git -c credential.helper=manager push -u $authUrl main
+    Write-Host "首次推送完成！$repoUrl" -ForegroundColor Green
 }
 finally {
     Pop-Location
