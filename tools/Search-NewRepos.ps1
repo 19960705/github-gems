@@ -45,7 +45,9 @@ $headers = @{
 
 # ---------- 构造查询 ----------
 $since = (Get-Date).AddDays(-$DaysBack).ToString('yyyy-MM-dd')
-$q = "created:>$since stars:<50 fork:false"
+# stars:1..49 排除 0 星垃圾仓库（实测 0 星多为空壳/乱码名仓库，质量差），
+# 注意 stars:>=1 stars:<50 的 >= 写法会被 GitHub 忽略，必须用区间写法 1..49
+$q = "created:>$since stars:1..49 fork:false"
 $uri = "https://api.github.com/search/repositories?q=$([Uri]::EscapeDataString($q))&sort=updated&order=desc&per_page=$PerPage"
 
 # ---------- 带退避重试的请求 ----------
