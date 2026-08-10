@@ -1,0 +1,20 @@
+# 忽略 token 与本地临时文件
+token*
+*.token
+ghp_*
+
+# 本地配置
+*.local.json
+*.local.*
+secrets/
+
+# 临时产物
+candidates.json
+*.tmp
+*.log
+logs/
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
