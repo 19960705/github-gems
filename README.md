@@ -6,6 +6,16 @@
 
 | 日期 | 项目 | 一句话说明 |
 |------|------|------------|
+| 2026-08-11 | [talkincode/alphabound](https://github.com/talkincode/alphabound) | 有边界的自主投资 Agent：AI 只提案，确定性风控内核裁决下单 |
+| 2026-08-11 | [LJunP/StinkyCobbler](https://github.com/LJunP/StinkyCobbler) | 多角色 AI 开发协作调度工具，Lease 授权+哈希链审计+回滚 |
+| 2026-08-11 | [farukak/web-remainder](https://github.com/farukak/web-remainder) | 网页持久标注/提醒扩展，弹性锚定+Shadow DOM 隔离 |
+| 2026-08-11 | [Ararataki-number-one/latex-project-manager](https://github.com/Ararataki-number-one/latex-project-manager) | Windows 优先本地 LaTeX 项目管理器+只读 Android 客户端 |
+| 2026-08-11 | [scrutabor/scrutabor](https://github.com/scrutabor/scrutabor) | 拉丁语祷文阅读伴侣：逐词形态学分析+离线打包 |
+| 2026-08-11 | [dereksparks1982/Project-Oracle](https://github.com/dereksparks1982/Project-Oracle) | 以 lore 为宪法的自主世界模拟与认知 Agent 研究 |
+| 2026-08-11 | [mfaizalzain/mygov](https://github.com/mfaizalzain/mygov) | 马来西亚政府开放数据一站聚合仪表盘+MCP 连接器 |
+| 2026-08-11 | [miwayomi/miwayomi](https://github.com/miwayomi/miwayomi) | PC 上直接运行 Tachiyomi 扩展的漫画/动漫服务器 |
+| 2026-08-11 | [Ruchit0807/MIL-ECHO](https://github.com/Ruchit0807/MIL-ECHO) | 媒体素养多人卡牌游戏，AI 提问式引导不判对错 |
+| 2026-08-11 | [xsoc1/rigorous-open-math-research](https://github.com/xsoc1/rigorous-open-math-research) | Codex 严格数学研究技能集，含 Lean 4 机器验证插件 |
 | 2026-08-10 | [Crack-Pantelimon/bespoke-mcp](https://github.com/Crack-Pantelimon/bespoke-mcp) | LLM 直接驾驶 Bespoke Synth 合成器做音乐，附 43 首全 AI 编曲成品 |
 | 2026-08-10 | [roisincrtai/zetagpt](https://github.com/roisincrtai/zetagpt) | 无位置编码（NoPE）LLM 完整训练管线，状态空间+注意力混合 |
 | 2026-08-10 | [T-64/bili-fact-checker](https://github.com/T-64/bili-fact-checker) | B 站视频转可核对的声明清单，证据分级标注 |
