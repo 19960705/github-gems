@@ -6,6 +6,16 @@
 
 | 日期 | 项目 | 一句话说明 |
 |------|------|------------|
+| 2026-08-12 | [mtrdrgz/sapphire_recomp](https://github.com/mtrdrgz/sapphire_recomp) | 3DS《宝可梦 阿尔法蓝宝石》静态重编译为原生 Windows 程序（ARM→C 已译 99.97%） |
+| 2026-08-12 | [caotong0/PyWRF](https://github.com/caotong0/PyWRF) | 纯 PyTorch 可微分的 WRF 气象模式核心重实现，可当神经天气模型物理层 |
+| 2026-08-12 | [ivoinestrachan/defcon-camera](https://github.com/ivoinestrachan/defcon-camera) | 把 DEF CON 34 徽章改装成相机，1-bit 照片串口上传到网页拍立得墙 |
+| 2026-08-12 | [kikyang/qring-print-android](https://github.com/kikyang/qring-print-android) | 小印 Qring X1 口袋打印机协议逆向替代客户端（官方 App 已下架） |
+| 2026-08-12 | [ExTrakf/legado-desktop](https://github.com/ExTrakf/legado-desktop) | Legado 开源阅读器 JVM 桌面化移植，HTTP/WS API 前后端分离 |
+| 2026-08-12 | [NoahIsARider/Crusaders](https://github.com/NoahIsARider/Crusaders) | 动态权力交接的人机协作评估框架，疲劳/认知负荷度量+SECI 反馈环 |
+| 2026-08-12 | [jimmyliao/gwx](https://github.com/jimmyliao/gwx) | AI agent 多账号 Google Workspace 策略网关，默认只建草稿永不发送 |
+| 2026-08-12 | [LuxiaSL/korax](https://github.com/LuxiaSL/korax) | 并行 agent 的 append-only 协作公告板，协议即产品+conformance 测试 |
+| 2026-08-12 | [LeoAndJellyfish/OpenCarpanel](https://github.com/LeoAndJellyfish/OpenCarpanel) | F1/ETS2/ATS 游戏遥测手机仪表盘，Rust Host p95 延迟 26ms |
+| 2026-08-12 | [ReviewStage/luke](https://github.com/ReviewStage/luke) | MacBook 刘海侧 AI 会话监视器，注意力智能决定何时出声 |
 | 2026-08-11 | [talkincode/alphabound](https://github.com/talkincode/alphabound) | 有边界的自主投资 Agent：AI 只提案，确定性风控内核裁决下单 |
 | 2026-08-11 | [LJunP/StinkyCobbler](https://github.com/LJunP/StinkyCobbler) | 多角色 AI 开发协作调度工具，Lease 授权+哈希链审计+回滚 |
 | 2026-08-11 | [farukak/web-remainder](https://github.com/farukak/web-remainder) | 网页持久标注/提醒扩展，弹性锚定+Shadow DOM 隔离 |
