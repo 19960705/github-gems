@@ -6,6 +6,16 @@
 
 | 日期 | 项目 | 一句话说明 |
 |------|------|------------|
+| 2026-08-14 | [JVPVO/taste-mcp](https://github.com/JVPVO/taste-mcp) | 让 agent 决策前先查你书签的「品味 MCP」，只读咨询+人工策展分离 |
+| 2026-08-14 | [Stalkerbass96/FretPilot](https://github.com/Stalkerbass96/FretPilot) | AI 音乐 MIDI 转吉他谱引擎，输出 Guitar Pro 5 谱面+演奏 MIDI |
+| 2026-08-14 | [harlixay7/AgentXFlow](https://github.com/harlixay7/AgentXFlow) | 多 agent 协作协调器：worktree 隔离+写范围锁+串行 merge 队列 |
+| 2026-08-14 | [cerrahpasalimeto/tortisdump](https://github.com/cerrahpasalimeto/tortisdump) | 多目标二进制 SDK dump：PE/.NET/Java+UE/IL2CPP 自动生成头文件 |
+| 2026-08-14 | [Jinchengawu/AI-Web-Performance-Plugin](https://github.com/Jinchengawu/AI-Web-Performance-Plugin) | 浏览器-IDE 双端性能优化闭环，Portable Audit Package 驱动 |
+| 2026-08-14 | [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) | 把 Claude Code/Codex/Cursor 历史对话导入 DSH 继续聊 |
+| 2026-08-14 | [vacuumboots/cutarr](https://github.com/vacuumboots/cutarr) | Plex 电影片段剪辑器：实时预览+帧级精确 1080p 下载 |
+| 2026-08-14 | [AsymmetricFrequency/pulso](https://github.com/AsymmetricFrequency/pulso) | 离线优先的应急协调平台，灾区报告变可追踪作战信息 |
+| 2026-08-14 | [Jasper2-0/demoscene-restoration](https://github.com/Jasper2-0/demoscene-restoration) | 逆向重建 2000 年代 demoscene 作品，纯 JS+WebGL2 可跑 |
+| 2026-08-14 | [JCarter19999/watchjoeylosemoney](https://github.com/JCarter19999/watchjoeylosemoney) | 公开交易账户仪表盘，白名单脱敏+延迟发布防泄露 |
 | 2026-08-12 | [mtrdrgz/sapphire_recomp](https://github.com/mtrdrgz/sapphire_recomp) | 3DS《宝可梦 阿尔法蓝宝石》静态重编译为原生 Windows 程序（ARM→C 已译 99.97%） |
 | 2026-08-12 | [caotong0/PyWRF](https://github.com/caotong0/PyWRF) | 纯 PyTorch 可微分的 WRF 气象模式核心重实现，可当神经天气模型物理层 |
 | 2026-08-12 | [ivoinestrachan/defcon-camera](https://github.com/ivoinestrachan/defcon-camera) | 把 DEF CON 34 徽章改装成相机，1-bit 照片串口上传到网页拍立得墙 |
