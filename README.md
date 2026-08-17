@@ -6,6 +6,16 @@
 
 | 日期 | 项目 | 一句话说明 |
 |------|------|------------|
+| 2026-08-17 | [CrazyCoder/crossglyph](https://github.com/CrazyCoder/crossglyph) | e-ink 阅读器字体构建调优工具，拖参数 300ms 内实时预览重绘 |
+| 2026-08-17 | [voftik/orimg](https://github.com/voftik/orimg) | 多模型图像生成 fan-out：一次 prompt 四模型出图自动选优，零依赖 CLI+agent skill |
+| 2026-08-17 | [will-marella/querygap-mcp](https://github.com/will-marella/querygap-mcp) | 生物医学元数据 MCP：ChatGPT/Claude 直搜 dbGaP/UK Biobank/All of Us |
+| 2026-08-17 | [nyrvo-dev/nyrvo](https://github.com/nyrvo-dev/nyrvo) | 环境漂移诊断 CLI：捕获/对比本地 vs CI vs 生产执行环境差异 |
+| 2026-08-17 | [uesleibros/contra-rewired](https://github.com/uesleibros/contra-rewired) | Rust 从零写 NES 模拟核心跑真魂斗罗 ROM，现代功能做成可选层 |
+| 2026-08-17 | [jpgjm/SigProbe](https://github.com/jpgjm/SigProbe) | iOS 音频指纹识别：逆向 Shazam vibra 协议，绕开付费 entitlement |
+| 2026-08-17 | [Nain9Dev/parametricad-ai](https://github.com/Nain9Dev/parametricad-ai) | 自然语言→参数化 CAD 生成+trimesh 仿真验证，六边形架构 |
+| 2026-08-17 | [JoshFinlayAU/cgdns](https://github.com/JoshFinlayAU/cgdns) | 自研递归引擎的运营商级 DNS：Anycast+DNSSEC+订阅者 ACL |
+| 2026-08-17 | [BrianC0des/termchat](https://github.com/BrianC0des/termchat) | 终端聊天：Bubble Tea TUI + P2P/云双模式，支持 Termux |
+| 2026-08-17 | [kmpbits/skeletal](https://github.com/kmpbits/skeletal) | Compose Multiplatform 自动骨架屏：包一层即生成，无需平行 skeleton UI |
 | 2026-08-14 | [JVPVO/taste-mcp](https://github.com/JVPVO/taste-mcp) | 让 agent 决策前先查你书签的「品味 MCP」，只读咨询+人工策展分离 |
 | 2026-08-14 | [Stalkerbass96/FretPilot](https://github.com/Stalkerbass96/FretPilot) | AI 音乐 MIDI 转吉他谱引擎，输出 Guitar Pro 5 谱面+演奏 MIDI |
 | 2026-08-14 | [harlixay7/AgentXFlow](https://github.com/harlixay7/AgentXFlow) | 多 agent 协作协调器：worktree 隔离+写范围锁+串行 merge 队列 |
@@ -36,24 +46,5 @@
 | 2026-08-11 | [miwayomi/miwayomi](https://github.com/miwayomi/miwayomi) | PC 上直接运行 Tachiyomi 扩展的漫画/动漫服务器 |
 | 2026-08-11 | [Ruchit0807/MIL-ECHO](https://github.com/Ruchit0807/MIL-ECHO) | 媒体素养多人卡牌游戏，AI 提问式引导不判对错 |
 | 2026-08-11 | [xsoc1/rigorous-open-math-research](https://github.com/xsoc1/rigorous-open-math-research) | Codex 严格数学研究技能集，含 Lean 4 机器验证插件 |
-| 2026-08-10 | [Crack-Pantelimon/bespoke-mcp](https://github.com/Crack-Pantelimon/bespoke-mcp) | LLM 直接驾驶 Bespoke Synth 合成器做音乐，附 43 首全 AI 编曲成品 |
-| 2026-08-10 | [roisincrtai/zetagpt](https://github.com/roisincrtai/zetagpt) | 无位置编码（NoPE）LLM 完整训练管线，状态空间+注意力混合 |
-| 2026-08-10 | [T-64/bili-fact-checker](https://github.com/T-64/bili-fact-checker) | B 站视频转可核对的声明清单，证据分级标注 |
-| 2026-08-10 | [cyberhatc/mctx](https://github.com/cyberhatc/mctx) | token 优化的 AI agent 记忆文件格式，seek 索引+零依赖 Rust 库 |
-| 2026-08-10 | [binsani/ot-sentinel](https://github.com/binsani/ot-sentinel) | 被动式 OT/ICS 资产发现与漏洞关联平台 |
-| 2026-08-10 | [litterairplane/prompt-attack-lab](https://github.com/litterairplane/prompt-attack-lab) | 系统提示词批量攻击自检实验室（300 用例+分层加固建议） |
-| 2026-08-10 | [AMTOPA/abyss-miner](https://github.com/AMTOPA/abyss-miner) | 地底钻探搜打撤游戏「深渊矿工」 |
-| 2026-08-10 | [josephsapinoso/kalshi-cockpit](https://github.com/josephsapinoso/kalshi-cockpit) | 体育博彩盘口测量仪器，防自我欺骗的 edge 计算 |
-| 2026-08-10 | [PoeticJustice79/MHWmodfixer](https://github.com/PoeticJustice79/MHWmodfixer) | 自动修复被游戏更新破坏的怪猎荒野外观 mod |
-| 2026-08-10 | [roycho96/nvfp4moe](https://github.com/roycho96/nvfp4moe) | Blackwell B200 训练级 NVFP4 MoE 内核，吞吐较 TE 快约 6 倍 |
-| 2026-08-10 | [yangheng95/opencorvus](https://github.com/yangheng95/opencorvus) | Mission/Squad 模型的多 agent 编排桌面应用 |
-| 2026-08-10 | [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse) | 一次 flake input 拿遍 nixpkgs 历史任意版本 |
-| 2026-08-10 | [shaoyanxing/mtefx](https://github.com/shaoyanxing/mtefx) | 零 COM 依赖的 MathType 公式批量转 OMML 引擎 |
-| 2026-08-10 | [MikanseiLaboratory/openmediatransport-rs](https://github.com/MikanseiLaboratory/openmediatransport-rs) | OMT 视频传输协议的纯 Rust 实现 |
-| 2026-08-10 | [Diego22rct/tenets](https://github.com/Diego22rct/tenets) | 静态分析自动标记 SOLID/DRY/KISS/YAGNI 违反 |
-| 2026-08-10 | [YWzzq/codex-pocket](https://github.com/YWzzq/codex-pocket) | 手机远程控制本地 Codex 的控制台 |
-| 2026-08-10 | [mikewang817/Prelude](https://github.com/mikewang817/Prelude) | macOS 终端命令中心 + 多 agent 统一控制面板 |
-| 2026-08-10 | [stshourenxy-dev/petpet-playbook](https://github.com/stshourenxy-dev/petpet-playbook) | 把真实宠物做成 AI 桌宠的完整管线方法论 |
-| 2026-08-10 | [ArmanddeCacqueray/Cartesian-Grid-Sort](https://github.com/ArmanddeCacqueray/Cartesian-Grid-Sort) | 点云空间连贯多维网格化的贪心排序算法 |
 
 > 每日完整报告见 [daily/](daily/) 目录。数据来源：GitHub Search API。
