@@ -6,6 +6,16 @@
 
 | 日期 | 项目 | 一句话说明 |
 |------|------|------------|
+| 2026-08-18 | [acodercat/AtmosCoder-Bench](https://github.com/acodercat/AtmosCoder-Bench) | 执行落地式大气科学 LLM 评测：选择题分数虚高 30-45 分，瓶颈在判断不在计算 |
+| 2026-08-18 | [lifetimerdp/deepseek-harness-android](https://github.com/lifetimerdp/deepseek-harness-android) | 安卓手机跑 coding agent：Termux+proot 免 root，任意 OpenAI 兼容端点可插 |
+| 2026-08-18 | [remnawave/geocheck](https://github.com/remnawave/geocheck) | 一条命令同时查 IP 定位共识与数据包实际路径，docker/podman/裸二进制零残留 |
+| 2026-08-18 | [hieutachi/rosbridge-mcp](https://github.com/hieutachi/rosbridge-mcp) | MCP 接 ROS2 机器人：rosbridge WebSocket 免装 ROS，11 工具+只读护栏 |
+| 2026-08-18 | [vrushali-devlekar/env-guard](https://github.com/vrushali-devlekar/env-guard) | 零配置 .env 审计：查缺失、扫泄露密钥、自动同步、生成 Zod/TS schema |
+| 2026-08-18 | [nobutakayamauchi/NAGI](https://github.com/nobutakayamauchi/NAGI) | 人类行动负载均衡器：把健忘/打断/计划漂移当常态，帮你重建下一步 |
+| 2026-08-18 | [qy24/local-knowledge-base](https://github.com/qy24/local-knowledge-base) | 单机自托管知识库：向量化+知识图谱+MCP 三接口，多租户密钥隔离 |
+| 2026-08-18 | [curtiseng/spatiotemporal](https://github.com/curtiseng/spatiotemporal) | 时空可组合性演算 Rust 实现：可撤销 effect+响应式 coeffect+fiber 惯性 |
+| 2026-08-18 | [gowrishankar-infra/velaris-lang](https://github.com/gowrishankar-infra/velaris-lang) | Z3 运行前证明签名承诺的语言：effect 可见、失败不可忽略、LLVM JIT |
+| 2026-08-18 | [andrecorugda/star-burxt](https://github.com/andrecorugda/star-burxt) | 写文档即写前端：.sbmx 文件=组件，拼错变量在页面存在前就报错 |
 | 2026-08-17 | [CrazyCoder/crossglyph](https://github.com/CrazyCoder/crossglyph) | e-ink 阅读器字体构建调优工具，拖参数 300ms 内实时预览重绘 |
 | 2026-08-17 | [voftik/orimg](https://github.com/voftik/orimg) | 多模型图像生成 fan-out：一次 prompt 四模型出图自动选优，零依赖 CLI+agent skill |
 | 2026-08-17 | [will-marella/querygap-mcp](https://github.com/will-marella/querygap-mcp) | 生物医学元数据 MCP：ChatGPT/Claude 直搜 dbGaP/UK Biobank/All of Us |
