@@ -6,6 +6,16 @@
 
 | 日期 | 项目 | 一句话说明 |
 |------|------|------------|
+| 2026-08-19 | [eSeaFiller/cv-maker](https://github.com/eSeaFiller/cv-maker) | 单文件简历排版工具：点哪改哪+间距滑杆+二分搜索排满一页，离线不泄露 |
+| 2026-08-19 | [unStone/web-ppt](https://github.com/unStone/web-ppt) | 纯浏览器 PPT 渲染引擎：pptx/ppt→JSON→SVG，自研 CFB/Escher/EMF 解析零依赖 |
+| 2026-08-19 | [MazzaWill/code-agent-board](https://github.com/MazzaWill/code-agent-board) | 两个不同厂商 AI CLI 辩论审查你的未提交 diff，直到无 blocking objection |
+| 2026-08-19 | [LouisHaoL/dsh-timer-agent](https://github.com/LouisHaoL/dsh-timer-agent) | DSH 常驻 cron 引擎：到点用真实 agent 会话执行 prompt，GUI 关闭照跑 |
+| 2026-08-19 | [nicolasdelrosario/relayir](https://github.com/nicolasdelrosario/relayir) | AI agent 可审计交接协议 H1：目标/约束/证据/结果结构化，+37% score/token |
+| 2026-08-19 | [buidangminh23/codex-mcp-bridge](https://github.com/buidangminh23/codex-mcp-bridge) | Claude↔Codex 双向桥：推 prompt 进 live 线程，历史上下文全保留 |
+| 2026-08-19 | [iwasborninbali/saturation](https://github.com/iwasborninbali/saturation) | no-three-in-line 数学前沿搜索：bit-parallel DFS 冲 n=71 未解案例 |
+| 2026-08-19 | [DuaneShaffer/greyfall](https://github.com/DuaneShaffer/greyfall) | 电网争夺战术 RPG：魔法=可输送的 flux，headless 核心+AI 对打调平衡 |
+| 2026-08-19 | [jsdvjx/dsh-strata](https://github.com/jsdvjx/dsh-strata) | DSH 会话滚动条变彩色 minimap：按真实篇幅比例压缩，一眼看全程 |
+| 2026-08-19 | [MAGA2010/hackathon-run](https://github.com/MAGA2010/hackathon-run) | 黑客松外科医生：六个 skill 管范围/验证/演示/评委/发布/恢复 |
 | 2026-08-18 | [acodercat/AtmosCoder-Bench](https://github.com/acodercat/AtmosCoder-Bench) | 执行落地式大气科学 LLM 评测：选择题分数虚高 30-45 分，瓶颈在判断不在计算 |
 | 2026-08-18 | [lifetimerdp/deepseek-harness-android](https://github.com/lifetimerdp/deepseek-harness-android) | 安卓手机跑 coding agent：Termux+proot 免 root，任意 OpenAI 兼容端点可插 |
 | 2026-08-18 | [remnawave/geocheck](https://github.com/remnawave/geocheck) | 一条命令同时查 IP 定位共识与数据包实际路径，docker/podman/裸二进制零残留 |
@@ -36,25 +46,5 @@
 | 2026-08-14 | [AsymmetricFrequency/pulso](https://github.com/AsymmetricFrequency/pulso) | 离线优先的应急协调平台，灾区报告变可追踪作战信息 |
 | 2026-08-14 | [Jasper2-0/demoscene-restoration](https://github.com/Jasper2-0/demoscene-restoration) | 逆向重建 2000 年代 demoscene 作品，纯 JS+WebGL2 可跑 |
 | 2026-08-14 | [JCarter19999/watchjoeylosemoney](https://github.com/JCarter19999/watchjoeylosemoney) | 公开交易账户仪表盘，白名单脱敏+延迟发布防泄露 |
-| 2026-08-12 | [mtrdrgz/sapphire_recomp](https://github.com/mtrdrgz/sapphire_recomp) | 3DS《宝可梦 阿尔法蓝宝石》静态重编译为原生 Windows 程序（ARM→C 已译 99.97%） |
-| 2026-08-12 | [caotong0/PyWRF](https://github.com/caotong0/PyWRF) | 纯 PyTorch 可微分的 WRF 气象模式核心重实现，可当神经天气模型物理层 |
-| 2026-08-12 | [ivoinestrachan/defcon-camera](https://github.com/ivoinestrachan/defcon-camera) | 把 DEF CON 34 徽章改装成相机，1-bit 照片串口上传到网页拍立得墙 |
-| 2026-08-12 | [kikyang/qring-print-android](https://github.com/kikyang/qring-print-android) | 小印 Qring X1 口袋打印机协议逆向替代客户端（官方 App 已下架） |
-| 2026-08-12 | [ExTrakf/legado-desktop](https://github.com/ExTrakf/legado-desktop) | Legado 开源阅读器 JVM 桌面化移植，HTTP/WS API 前后端分离 |
-| 2026-08-12 | [NoahIsARider/Crusaders](https://github.com/NoahIsARider/Crusaders) | 动态权力交接的人机协作评估框架，疲劳/认知负荷度量+SECI 反馈环 |
-| 2026-08-12 | [jimmyliao/gwx](https://github.com/jimmyliao/gwx) | AI agent 多账号 Google Workspace 策略网关，默认只建草稿永不发送 |
-| 2026-08-12 | [LuxiaSL/korax](https://github.com/LuxiaSL/korax) | 并行 agent 的 append-only 协作公告板，协议即产品+conformance 测试 |
-| 2026-08-12 | [LeoAndJellyfish/OpenCarpanel](https://github.com/LeoAndJellyfish/OpenCarpanel) | F1/ETS2/ATS 游戏遥测手机仪表盘，Rust Host p95 延迟 26ms |
-| 2026-08-12 | [ReviewStage/luke](https://github.com/ReviewStage/luke) | MacBook 刘海侧 AI 会话监视器，注意力智能决定何时出声 |
-| 2026-08-11 | [talkincode/alphabound](https://github.com/talkincode/alphabound) | 有边界的自主投资 Agent：AI 只提案，确定性风控内核裁决下单 |
-| 2026-08-11 | [LJunP/StinkyCobbler](https://github.com/LJunP/StinkyCobbler) | 多角色 AI 开发协作调度工具，Lease 授权+哈希链审计+回滚 |
-| 2026-08-11 | [farukak/web-remainder](https://github.com/farukak/web-remainder) | 网页持久标注/提醒扩展，弹性锚定+Shadow DOM 隔离 |
-| 2026-08-11 | [Ararataki-number-one/latex-project-manager](https://github.com/Ararataki-number-one/latex-project-manager) | Windows 优先本地 LaTeX 项目管理器+只读 Android 客户端 |
-| 2026-08-11 | [scrutabor/scrutabor](https://github.com/scrutabor/scrutabor) | 拉丁语祷文阅读伴侣：逐词形态学分析+离线打包 |
-| 2026-08-11 | [dereksparks1982/Project-Oracle](https://github.com/dereksparks1982/Project-Oracle) | 以 lore 为宪法的自主世界模拟与认知 Agent 研究 |
-| 2026-08-11 | [mfaizalzain/mygov](https://github.com/mfaizalzain/mygov) | 马来西亚政府开放数据一站聚合仪表盘+MCP 连接器 |
-| 2026-08-11 | [miwayomi/miwayomi](https://github.com/miwayomi/miwayomi) | PC 上直接运行 Tachiyomi 扩展的漫画/动漫服务器 |
-| 2026-08-11 | [Ruchit0807/MIL-ECHO](https://github.com/Ruchit0807/MIL-ECHO) | 媒体素养多人卡牌游戏，AI 提问式引导不判对错 |
-| 2026-08-11 | [xsoc1/rigorous-open-math-research](https://github.com/xsoc1/rigorous-open-math-research) | Codex 严格数学研究技能集，含 Lean 4 机器验证插件 |
 
 > 每日完整报告见 [daily/](daily/) 目录。数据来源：GitHub Search API。
