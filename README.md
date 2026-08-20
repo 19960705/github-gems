@@ -6,6 +6,16 @@
 
 | 日期 | 项目 | 一句话说明 |
 |------|------|------------|
+| 2026-08-20 | [VIKOIT/reversibility-engine](https://github.com/VIKOIT/reversibility-engine) | CI 上给每个 PR 按"能否安全回滚"打分 A-F，静态分析 PG 迁移/K8s 清单，闸门自主 AI agent 的合并 |
+| 2026-08-20 | [ZhiliHe/AI-lost-and-found-office](https://github.com/ZhiliHe/AI-lost-and-found-office) | 多模态寻物 Agent：找不到就反问而不是瞎猜，红框标出答案 |
+| 2026-08-20 | [Dicklesworthstone/frankensympy](https://github.com/Dicklesworthstone/frankensympy) | 用 Rust 无 unsafe 干净重写 Python 符号计算库 SymPy，差分 oracle 逐例验证 |
+| 2026-08-20 | [brilliantlabsAR/halo-firmware](https://github.com/brilliantlabsAR/halo-firmware) | Halo AI 眼镜开源固件：Zephyr+Lua 运行时+BLE OTA，可自编译无线刷入 |
+| 2026-08-20 | [adeptify/niul.ai](https://github.com/adeptify/niul.ai) | macOS 桌面宠物"牛来"监视本地 AI 会话：谁在干活、谁在等你一目了然 |
+| 2026-08-20 | [gmazaratti/windows-explorer-mac](https://github.com/gmazaratti/windows-explorer-mac) | SwiftUI 在 macOS 原生复刻 Win11 资源管理器，同布局同快捷键零依赖 |
+| 2026-08-20 | [Write-del/aml-investigation-agent](https://github.com/Write-del/aml-investigation-agent) | 反洗钱调查 Agent：XGBoost+SHAP+LangGraph 按自然语言组合工具完成调查 |
+| 2026-08-20 | [Divinci-AI/divinci-demo-pipeline-oss](https://github.com/Divinci-AI/divinci-demo-pipeline-oss) | 自动爬客户网站构建白标 RAG demo 的销售管线，12 步人工闸门把关 |
+| 2026-08-20 | [tlconsultinggroup/tokenomics](https://github.com/tlconsultinggroup/tokenomics) | 本地解析 AI 工具会话日志，算每日/每周/每月 token 用量和成本仪表盘 |
+| 2026-08-20 | [SAMBAS123/thats-weird](https://github.com/SAMBAS123/thats-weird) | OOF 公开记录追踪器：盯 Roblox 联邦诉讼动态，$OOF 梗数据站 |
 | 2026-08-19 | [eSeaFiller/cv-maker](https://github.com/eSeaFiller/cv-maker) | 单文件简历排版工具：点哪改哪+间距滑杆+二分搜索排满一页，离线不泄露 |
 | 2026-08-19 | [unStone/web-ppt](https://github.com/unStone/web-ppt) | 纯浏览器 PPT 渲染引擎：pptx/ppt→JSON→SVG，自研 CFB/Escher/EMF 解析零依赖 |
 | 2026-08-19 | [MazzaWill/code-agent-board](https://github.com/MazzaWill/code-agent-board) | 两个不同厂商 AI CLI 辩论审查你的未提交 diff，直到无 blocking objection |
