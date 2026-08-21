@@ -6,6 +6,16 @@
 
 | 日期 | 项目 | 一句话说明 |
 |------|------|------------|
+| 2026-08-21 | [Chenmo0414/tukey](https://github.com/Chenmo0414/tukey) | 开源版 Julius AI：挂 CSV/Postgres 自动剖析、SQL 回答、对话里直接画图 |
+| 2026-08-21 | [aveluneverse/EverOtome](https://github.com/aveluneverse/EverOtome) | 乙女游戏风格开源 AI 伴侣前端，立绘/CG/台词全可换，今日发 v0.2.0-beta |
+| 2026-08-21 | [leapdragon/vllm-rdna2-recipe](https://github.com/leapdragon/vllm-rdna2-recipe) | 让 vLLM 在 AMD RDNA2 上跑出实用性能的完整配方，18.4→33.5 t/s 实测 |
+| 2026-08-21 | [ModelCloud/Recirculation](https://github.com/ModelCloud/Recirculation) | Recirculation 论文免训练推理方法的高质量开源复现 |
+| 2026-08-21 | [enzoyoyo/trading-research](https://github.com/enzoyoyo/trading-research) | 纯研究不实盘的交易分析 Agent Skill：证据→风险边界→行动指引 |
+| 2026-08-21 | [green-threads/ndo](https://github.com/green-threads/ndo) | CLI-first 命令运行器：TOML 配方、单静态二进制、central+local 分层 |
+| 2026-08-21 | [michaeltrilford/Pepperoni](https://github.com/michaeltrilford/Pepperoni) | React 设计系统地基：StyleX+Style Dictionary 做 token/主题/无障碍 |
+| 2026-08-21 | [ScottJeong/altium-claude-skills](https://github.com/ScottJeong/altium-claude-skills) | Claude Code 的 Altium 硬件设计技能包：审原理图/查缺封装/PCB 布局 |
+| 2026-08-21 | [willyyypatootieee/CCNux](https://github.com/willyyypatootieee/CCNux) | 原生 GTK4 的 Linux Adobe CC 2024 管理器：Wine+DXVK 自动兼容修复 |
+| 2026-08-21 | [bdragoncore/pibench-server](https://github.com/bdragoncore/pibench-server) | 树莓派 Zero 2 W 极简 AI agent 服务端，Go 零 CGO，内存压到 ~15MB |
 | 2026-08-20 | [VIKOIT/reversibility-engine](https://github.com/VIKOIT/reversibility-engine) | CI 上给每个 PR 按"能否安全回滚"打分 A-F，静态分析 PG 迁移/K8s 清单，闸门自主 AI agent 的合并 |
 | 2026-08-20 | [ZhiliHe/AI-lost-and-found-office](https://github.com/ZhiliHe/AI-lost-and-found-office) | 多模态寻物 Agent：找不到就反问而不是瞎猜，红框标出答案 |
 | 2026-08-20 | [Dicklesworthstone/frankensympy](https://github.com/Dicklesworthstone/frankensympy) | 用 Rust 无 unsafe 干净重写 Python 符号计算库 SymPy，差分 oracle 逐例验证 |
