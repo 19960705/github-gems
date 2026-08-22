@@ -6,6 +6,15 @@
 
 | 日期 | 项目 | 一句话说明 |
 |------|------|------------|
+| 2026-08-22 | [CNSeniorious000/dsh-generative-ui](https://github.com/CNSeniorious000/dsh-generative-ui) | agent 边写 TSX 边流式渲染的 Generative UI，chat 内联+canvas 面板 |
+| 2026-08-22 | [e4tsai-byte/rehab](https://github.com/e4tsai-byte/rehab) | 摄像头实时校验肩部康复动作的 CV 家庭康复教练，个人术后项目 |
+| 2026-08-22 | [mizchi/uneffect](https://github.com/mizchi/uneffect) | 注释声明副作用+Hoare Triple 静态检查 TypeScript，零迁移成本 |
+| 2026-08-22 | [xqliu/local-llm-kv-cache](https://github.com/xqliu/local-llm-kv-cache) | 本地编程 agent 两级 KV 缓存代理：会话热缓存+磁盘冷缓存恢复 |
+| 2026-08-22 | [hyphen8d/signal](https://github.com/hyphen8d/signal) | CRT 调谐旋钮造型的浏览器网络收音机玩具，WebGL2 文本网格引擎 |
+| 2026-08-22 | [taco-jpg/gmx-repeat-liquidations](https://github.com/taco-jpg/gmx-repeat-liquidations) | GMX V2 六个月数据实证：71.69% 清算名义额来自重复清算钱包 |
+| 2026-08-22 | [StarMi-root/steam-can-i-play](https://github.com/StarMi-root/steam-can-i-play) | 录入硬件立刻知道 Steam 哪些游戏能跑+预估 FPS，内置 AI 助手 |
+| 2026-08-22 | [CoreyJpeg/RemReader](https://github.com/CoreyJpeg/RemReader) | AO3 同人 HTML 一键转逐章有声书 WAV，本地轻量 |
+| 2026-08-22 | [MathiasKowoll/MacGameVideoFix](https://github.com/MathiasKowoll/MacGameVideoFix) | CrossOver 跑 UE5 游戏过场黑屏/崩溃的逐游戏运行时补丁 |
 | 2026-08-21 | [Chenmo0414/tukey](https://github.com/Chenmo0414/tukey) | 开源版 Julius AI：挂 CSV/Postgres 自动剖析、SQL 回答、对话里直接画图 |
 | 2026-08-21 | [aveluneverse/EverOtome](https://github.com/aveluneverse/EverOtome) | 乙女游戏风格开源 AI 伴侣前端，立绘/CG/台词全可换，今日发 v0.2.0-beta |
 | 2026-08-21 | [leapdragon/vllm-rdna2-recipe](https://github.com/leapdragon/vllm-rdna2-recipe) | 让 vLLM 在 AMD RDNA2 上跑出实用性能的完整配方，18.4→33.5 t/s 实测 |
@@ -56,15 +65,5 @@
 | 2026-08-17 | [JoshFinlayAU/cgdns](https://github.com/JoshFinlayAU/cgdns) | 自研递归引擎的运营商级 DNS：Anycast+DNSSEC+订阅者 ACL |
 | 2026-08-17 | [BrianC0des/termchat](https://github.com/BrianC0des/termchat) | 终端聊天：Bubble Tea TUI + P2P/云双模式，支持 Termux |
 | 2026-08-17 | [kmpbits/skeletal](https://github.com/kmpbits/skeletal) | Compose Multiplatform 自动骨架屏：包一层即生成，无需平行 skeleton UI |
-| 2026-08-14 | [JVPVO/taste-mcp](https://github.com/JVPVO/taste-mcp) | 让 agent 决策前先查你书签的「品味 MCP」，只读咨询+人工策展分离 |
-| 2026-08-14 | [Stalkerbass96/FretPilot](https://github.com/Stalkerbass96/FretPilot) | AI 音乐 MIDI 转吉他谱引擎，输出 Guitar Pro 5 谱面+演奏 MIDI |
-| 2026-08-14 | [harlixay7/AgentXFlow](https://github.com/harlixay7/AgentXFlow) | 多 agent 协作协调器：worktree 隔离+写范围锁+串行 merge 队列 |
-| 2026-08-14 | [cerrahpasalimeto/tortisdump](https://github.com/cerrahpasalimeto/tortisdump) | 多目标二进制 SDK dump：PE/.NET/Java+UE/IL2CPP 自动生成头文件 |
-| 2026-08-14 | [Jinchengawu/AI-Web-Performance-Plugin](https://github.com/Jinchengawu/AI-Web-Performance-Plugin) | 浏览器-IDE 双端性能优化闭环，Portable Audit Package 驱动 |
-| 2026-08-14 | [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) | 把 Claude Code/Codex/Cursor 历史对话导入 DSH 继续聊 |
-| 2026-08-14 | [vacuumboots/cutarr](https://github.com/vacuumboots/cutarr) | Plex 电影片段剪辑器：实时预览+帧级精确 1080p 下载 |
-| 2026-08-14 | [AsymmetricFrequency/pulso](https://github.com/AsymmetricFrequency/pulso) | 离线优先的应急协调平台，灾区报告变可追踪作战信息 |
-| 2026-08-14 | [Jasper2-0/demoscene-restoration](https://github.com/Jasper2-0/demoscene-restoration) | 逆向重建 2000 年代 demoscene 作品，纯 JS+WebGL2 可跑 |
-| 2026-08-14 | [JCarter19999/watchjoeylosemoney](https://github.com/JCarter19999/watchjoeylosemoney) | 公开交易账户仪表盘，白名单脱敏+延迟发布防泄露 |
 
 > 每日完整报告见 [daily/](daily/) 目录。数据来源：GitHub Search API。
