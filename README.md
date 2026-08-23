@@ -67,3 +67,9 @@
 | 2026-08-17 | [kmpbits/skeletal](https://github.com/kmpbits/skeletal) | Compose Multiplatform 自动骨架屏：包一层即生成，无需平行 skeleton UI |
 
 > 每日完整报告见 [daily/](daily/) 目录。数据来源：GitHub Search API。
+
+## 每周孵化
+
+每周日从本周日报中挑选 3 个最值得开发成自己项目的方向，含简化方案与可直接开工的 Vibe Coding prompt。
+
+- [2026-W33 孵化周报](weekly/2026-W33.md) — CSV EDA Agent / 通用 Agent 生成 UI 运行时 / 单动作姿势教练
