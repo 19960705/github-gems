@@ -6,6 +6,16 @@
 
 | 日期 | 项目 | 一句话说明 |
 |------|------|------------|
+| 2026-08-23 | [Meng-m1/credit_rag](https://github.com/Meng-m1/credit_rag) | 银行信贷尽调 RAG 报告生成：BGE-M3 双路检索+置信度门控防幻觉+逐段溯源引用 |
+| 2026-08-23 | [alirezajaberirad/hardcaml-netparse](https://github.com/alirezajaberirad/hardcaml-netparse) | Hardcaml(OCaml) 参数化线速以太网/IPv4/UDP 解析，一份源码生成 32-512bit RTL 变体 |
+| 2026-08-23 | [gauciv/detach](https://github.com/gauciv/detach) | systemd user transient service 让 GUI 程序脱离终端生命周期，零依赖免 root |
+| 2026-08-23 | [ghassenzaara/Agentic-Hackathon-Munich-EHL-Team-Harissa-](https://github.com/ghassenzaara/Agentic-Hackathon-Munich-EHL-Team-Harissa-) | AutoImplants：CadQuery 骨科植入物生成+Devin 自主「生成→验证→报告→迭代」闭环 |
+| 2026-08-23 | [ShieldVIN/shieldvin](https://github.com/ShieldVIN/shieldvin) | Midnight ZK 链上数字车辆护照：选择性披露车辆历史，对标 EU 2026/1738 |
+| 2026-08-23 | [langningchen/FitBudsControl](https://github.com/langningchen/FitBudsControl) | Windows 托盘工具蓝牙 RFCOMM 控制 EDIFIER FitBuds Turbo 耳机电量/降噪/均衡器 |
+| 2026-08-23 | [AndrianBalanescu/ProjectBase](https://github.com/AndrianBalanescu/ProjectBase) | 16MB RAM 零构建 PocketBase+Vue3 的 Plane/Linear 替代，带 FastMCP agent 接口 |
+| 2026-08-23 | [DuoZhao2026/baihua-tijian-app2026](https://github.com/DuoZhao2026/baihua-tijian-app2026) | 适老化体检报告解读：本地 OCR 不上传，趋势/科室建议/语音朗读 |
+| 2026-08-23 | [caob23/dsh-browser-control](https://github.com/caob23/dsh-browser-control) | Chrome 扩展+CDP 驱动真实浏览器（带登录态）供 AI Agent 操控 |
+| 2026-08-23 | [pinpin0824/pin-finder](https://github.com/pinpin0824/pin-finder) | 每小时抓 eBay 迪士尼 Pin 数据生成静态站，GitHub Actions 全自动 |
 | 2026-08-22 | [CNSeniorious000/dsh-generative-ui](https://github.com/CNSeniorious000/dsh-generative-ui) | agent 边写 TSX 边流式渲染的 Generative UI，chat 内联+canvas 面板 |
 | 2026-08-22 | [e4tsai-byte/rehab](https://github.com/e4tsai-byte/rehab) | 摄像头实时校验肩部康复动作的 CV 家庭康复教练，个人术后项目 |
 | 2026-08-22 | [mizchi/uneffect](https://github.com/mizchi/uneffect) | 注释声明副作用+Hoare Triple 静态检查 TypeScript，零迁移成本 |
