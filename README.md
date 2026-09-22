@@ -6,75 +6,15 @@
 
 | 日期 | 项目 | 一句话说明 |
 |------|------|------------|
-| 2026-08-23 | [Meng-m1/credit_rag](https://github.com/Meng-m1/credit_rag) | 银行信贷尽调 RAG 报告生成：BGE-M3 双路检索+置信度门控防幻觉+逐段溯源引用 |
-| 2026-08-23 | [alirezajaberirad/hardcaml-netparse](https://github.com/alirezajaberirad/hardcaml-netparse) | Hardcaml(OCaml) 参数化线速以太网/IPv4/UDP 解析，一份源码生成 32-512bit RTL 变体 |
-| 2026-08-23 | [gauciv/detach](https://github.com/gauciv/detach) | systemd user transient service 让 GUI 程序脱离终端生命周期，零依赖免 root |
-| 2026-08-23 | [ghassenzaara/Agentic-Hackathon-Munich-EHL-Team-Harissa-](https://github.com/ghassenzaara/Agentic-Hackathon-Munich-EHL-Team-Harissa-) | AutoImplants：CadQuery 骨科植入物生成+Devin 自主「生成→验证→报告→迭代」闭环 |
-| 2026-08-23 | [ShieldVIN/shieldvin](https://github.com/ShieldVIN/shieldvin) | Midnight ZK 链上数字车辆护照：选择性披露车辆历史，对标 EU 2026/1738 |
-| 2026-08-23 | [langningchen/FitBudsControl](https://github.com/langningchen/FitBudsControl) | Windows 托盘工具蓝牙 RFCOMM 控制 EDIFIER FitBuds Turbo 耳机电量/降噪/均衡器 |
-| 2026-08-23 | [AndrianBalanescu/ProjectBase](https://github.com/AndrianBalanescu/ProjectBase) | 16MB RAM 零构建 PocketBase+Vue3 的 Plane/Linear 替代，带 FastMCP agent 接口 |
-| 2026-08-23 | [DuoZhao2026/baihua-tijian-app2026](https://github.com/DuoZhao2026/baihua-tijian-app2026) | 适老化体检报告解读：本地 OCR 不上传，趋势/科室建议/语音朗读 |
-| 2026-08-23 | [caob23/dsh-browser-control](https://github.com/caob23/dsh-browser-control) | Chrome 扩展+CDP 驱动真实浏览器（带登录态）供 AI Agent 操控 |
-| 2026-08-23 | [pinpin0824/pin-finder](https://github.com/pinpin0824/pin-finder) | 每小时抓 eBay 迪士尼 Pin 数据生成静态站，GitHub Actions 全自动 |
-| 2026-08-22 | [CNSeniorious000/dsh-generative-ui](https://github.com/CNSeniorious000/dsh-generative-ui) | agent 边写 TSX 边流式渲染的 Generative UI，chat 内联+canvas 面板 |
-| 2026-08-22 | [e4tsai-byte/rehab](https://github.com/e4tsai-byte/rehab) | 摄像头实时校验肩部康复动作的 CV 家庭康复教练，个人术后项目 |
-| 2026-08-22 | [mizchi/uneffect](https://github.com/mizchi/uneffect) | 注释声明副作用+Hoare Triple 静态检查 TypeScript，零迁移成本 |
-| 2026-08-22 | [xqliu/local-llm-kv-cache](https://github.com/xqliu/local-llm-kv-cache) | 本地编程 agent 两级 KV 缓存代理：会话热缓存+磁盘冷缓存恢复 |
-| 2026-08-22 | [hyphen8d/signal](https://github.com/hyphen8d/signal) | CRT 调谐旋钮造型的浏览器网络收音机玩具，WebGL2 文本网格引擎 |
-| 2026-08-22 | [taco-jpg/gmx-repeat-liquidations](https://github.com/taco-jpg/gmx-repeat-liquidations) | GMX V2 六个月数据实证：71.69% 清算名义额来自重复清算钱包 |
-| 2026-08-22 | [StarMi-root/steam-can-i-play](https://github.com/StarMi-root/steam-can-i-play) | 录入硬件立刻知道 Steam 哪些游戏能跑+预估 FPS，内置 AI 助手 |
-| 2026-08-22 | [CoreyJpeg/RemReader](https://github.com/CoreyJpeg/RemReader) | AO3 同人 HTML 一键转逐章有声书 WAV，本地轻量 |
-| 2026-08-22 | [MathiasKowoll/MacGameVideoFix](https://github.com/MathiasKowoll/MacGameVideoFix) | CrossOver 跑 UE5 游戏过场黑屏/崩溃的逐游戏运行时补丁 |
-| 2026-08-21 | [Chenmo0414/tukey](https://github.com/Chenmo0414/tukey) | 开源版 Julius AI：挂 CSV/Postgres 自动剖析、SQL 回答、对话里直接画图 |
-| 2026-08-21 | [aveluneverse/EverOtome](https://github.com/aveluneverse/EverOtome) | 乙女游戏风格开源 AI 伴侣前端，立绘/CG/台词全可换，今日发 v0.2.0-beta |
-| 2026-08-21 | [leapdragon/vllm-rdna2-recipe](https://github.com/leapdragon/vllm-rdna2-recipe) | 让 vLLM 在 AMD RDNA2 上跑出实用性能的完整配方，18.4→33.5 t/s 实测 |
-| 2026-08-21 | [ModelCloud/Recirculation](https://github.com/ModelCloud/Recirculation) | Recirculation 论文免训练推理方法的高质量开源复现 |
-| 2026-08-21 | [enzoyoyo/trading-research](https://github.com/enzoyoyo/trading-research) | 纯研究不实盘的交易分析 Agent Skill：证据→风险边界→行动指引 |
-| 2026-08-21 | [green-threads/ndo](https://github.com/green-threads/ndo) | CLI-first 命令运行器：TOML 配方、单静态二进制、central+local 分层 |
-| 2026-08-21 | [michaeltrilford/Pepperoni](https://github.com/michaeltrilford/Pepperoni) | React 设计系统地基：StyleX+Style Dictionary 做 token/主题/无障碍 |
-| 2026-08-21 | [ScottJeong/altium-claude-skills](https://github.com/ScottJeong/altium-claude-skills) | Claude Code 的 Altium 硬件设计技能包：审原理图/查缺封装/PCB 布局 |
-| 2026-08-21 | [willyyypatootieee/CCNux](https://github.com/willyyypatootieee/CCNux) | 原生 GTK4 的 Linux Adobe CC 2024 管理器：Wine+DXVK 自动兼容修复 |
-| 2026-08-21 | [bdragoncore/pibench-server](https://github.com/bdragoncore/pibench-server) | 树莓派 Zero 2 W 极简 AI agent 服务端，Go 零 CGO，内存压到 ~15MB |
-| 2026-08-20 | [VIKOIT/reversibility-engine](https://github.com/VIKOIT/reversibility-engine) | CI 上给每个 PR 按"能否安全回滚"打分 A-F，静态分析 PG 迁移/K8s 清单，闸门自主 AI agent 的合并 |
-| 2026-08-20 | [ZhiliHe/AI-lost-and-found-office](https://github.com/ZhiliHe/AI-lost-and-found-office) | 多模态寻物 Agent：找不到就反问而不是瞎猜，红框标出答案 |
-| 2026-08-20 | [Dicklesworthstone/frankensympy](https://github.com/Dicklesworthstone/frankensympy) | 用 Rust 无 unsafe 干净重写 Python 符号计算库 SymPy，差分 oracle 逐例验证 |
-| 2026-08-20 | [brilliantlabsAR/halo-firmware](https://github.com/brilliantlabsAR/halo-firmware) | Halo AI 眼镜开源固件：Zephyr+Lua 运行时+BLE OTA，可自编译无线刷入 |
-| 2026-08-20 | [adeptify/niul.ai](https://github.com/adeptify/niul.ai) | macOS 桌面宠物"牛来"监视本地 AI 会话：谁在干活、谁在等你一目了然 |
-| 2026-08-20 | [gmazaratti/windows-explorer-mac](https://github.com/gmazaratti/windows-explorer-mac) | SwiftUI 在 macOS 原生复刻 Win11 资源管理器，同布局同快捷键零依赖 |
-| 2026-08-20 | [Write-del/aml-investigation-agent](https://github.com/Write-del/aml-investigation-agent) | 反洗钱调查 Agent：XGBoost+SHAP+LangGraph 按自然语言组合工具完成调查 |
-| 2026-08-20 | [Divinci-AI/divinci-demo-pipeline-oss](https://github.com/Divinci-AI/divinci-demo-pipeline-oss) | 自动爬客户网站构建白标 RAG demo 的销售管线，12 步人工闸门把关 |
-| 2026-08-20 | [tlconsultinggroup/tokenomics](https://github.com/tlconsultinggroup/tokenomics) | 本地解析 AI 工具会话日志，算每日/每周/每月 token 用量和成本仪表盘 |
-| 2026-08-20 | [SAMBAS123/thats-weird](https://github.com/SAMBAS123/thats-weird) | OOF 公开记录追踪器：盯 Roblox 联邦诉讼动态，$OOF 梗数据站 |
-| 2026-08-19 | [eSeaFiller/cv-maker](https://github.com/eSeaFiller/cv-maker) | 单文件简历排版工具：点哪改哪+间距滑杆+二分搜索排满一页，离线不泄露 |
-| 2026-08-19 | [unStone/web-ppt](https://github.com/unStone/web-ppt) | 纯浏览器 PPT 渲染引擎：pptx/ppt→JSON→SVG，自研 CFB/Escher/EMF 解析零依赖 |
-| 2026-08-19 | [MazzaWill/code-agent-board](https://github.com/MazzaWill/code-agent-board) | 两个不同厂商 AI CLI 辩论审查你的未提交 diff，直到无 blocking objection |
-| 2026-08-19 | [LouisHaoL/dsh-timer-agent](https://github.com/LouisHaoL/dsh-timer-agent) | DSH 常驻 cron 引擎：到点用真实 agent 会话执行 prompt，GUI 关闭照跑 |
-| 2026-08-19 | [nicolasdelrosario/relayir](https://github.com/nicolasdelrosario/relayir) | AI agent 可审计交接协议 H1：目标/约束/证据/结果结构化，+37% score/token |
-| 2026-08-19 | [buidangminh23/codex-mcp-bridge](https://github.com/buidangminh23/codex-mcp-bridge) | Claude↔Codex 双向桥：推 prompt 进 live 线程，历史上下文全保留 |
-| 2026-08-19 | [iwasborninbali/saturation](https://github.com/iwasborninbali/saturation) | no-three-in-line 数学前沿搜索：bit-parallel DFS 冲 n=71 未解案例 |
-| 2026-08-19 | [DuaneShaffer/greyfall](https://github.com/DuaneShaffer/greyfall) | 电网争夺战术 RPG：魔法=可输送的 flux，headless 核心+AI 对打调平衡 |
-| 2026-08-19 | [jsdvjx/dsh-strata](https://github.com/jsdvjx/dsh-strata) | DSH 会话滚动条变彩色 minimap：按真实篇幅比例压缩，一眼看全程 |
-| 2026-08-19 | [MAGA2010/hackathon-run](https://github.com/MAGA2010/hackathon-run) | 黑客松外科医生：六个 skill 管范围/验证/演示/评委/发布/恢复 |
-| 2026-08-18 | [acodercat/AtmosCoder-Bench](https://github.com/acodercat/AtmosCoder-Bench) | 执行落地式大气科学 LLM 评测：选择题分数虚高 30-45 分，瓶颈在判断不在计算 |
-| 2026-08-18 | [lifetimerdp/deepseek-harness-android](https://github.com/lifetimerdp/deepseek-harness-android) | 安卓手机跑 coding agent：Termux+proot 免 root，任意 OpenAI 兼容端点可插 |
-| 2026-08-18 | [remnawave/geocheck](https://github.com/remnawave/geocheck) | 一条命令同时查 IP 定位共识与数据包实际路径，docker/podman/裸二进制零残留 |
-| 2026-08-18 | [hieutachi/rosbridge-mcp](https://github.com/hieutachi/rosbridge-mcp) | MCP 接 ROS2 机器人：rosbridge WebSocket 免装 ROS，11 工具+只读护栏 |
-| 2026-08-18 | [vrushali-devlekar/env-guard](https://github.com/vrushali-devlekar/env-guard) | 零配置 .env 审计：查缺失、扫泄露密钥、自动同步、生成 Zod/TS schema |
-| 2026-08-18 | [nobutakayamauchi/NAGI](https://github.com/nobutakayamauchi/NAGI) | 人类行动负载均衡器：把健忘/打断/计划漂移当常态，帮你重建下一步 |
-| 2026-08-18 | [qy24/local-knowledge-base](https://github.com/qy24/local-knowledge-base) | 单机自托管知识库：向量化+知识图谱+MCP 三接口，多租户密钥隔离 |
-| 2026-08-18 | [curtiseng/spatiotemporal](https://github.com/curtiseng/spatiotemporal) | 时空可组合性演算 Rust 实现：可撤销 effect+响应式 coeffect+fiber 惯性 |
-| 2026-08-18 | [gowrishankar-infra/velaris-lang](https://github.com/gowrishankar-infra/velaris-lang) | Z3 运行前证明签名承诺的语言：effect 可见、失败不可忽略、LLVM JIT |
-| 2026-08-18 | [andrecorugda/star-burxt](https://github.com/andrecorugda/star-burxt) | 写文档即写前端：.sbmx 文件=组件，拼错变量在页面存在前就报错 |
-| 2026-08-17 | [CrazyCoder/crossglyph](https://github.com/CrazyCoder/crossglyph) | e-ink 阅读器字体构建调优工具，拖参数 300ms 内实时预览重绘 |
-| 2026-08-17 | [voftik/orimg](https://github.com/voftik/orimg) | 多模型图像生成 fan-out：一次 prompt 四模型出图自动选优，零依赖 CLI+agent skill |
-| 2026-08-17 | [will-marella/querygap-mcp](https://github.com/will-marella/querygap-mcp) | 生物医学元数据 MCP：ChatGPT/Claude 直搜 dbGaP/UK Biobank/All of Us |
-| 2026-08-17 | [nyrvo-dev/nyrvo](https://github.com/nyrvo-dev/nyrvo) | 环境漂移诊断 CLI：捕获/对比本地 vs CI vs 生产执行环境差异 |
-| 2026-08-17 | [uesleibros/contra-rewired](https://github.com/uesleibros/contra-rewired) | Rust 从零写 NES 模拟核心跑真魂斗罗 ROM，现代功能做成可选层 |
-| 2026-08-17 | [jpgjm/SigProbe](https://github.com/jpgjm/SigProbe) | iOS 音频指纹识别：逆向 Shazam vibra 协议，绕开付费 entitlement |
-| 2026-08-17 | [Nain9Dev/parametricad-ai](https://github.com/Nain9Dev/parametricad-ai) | 自然语言→参数化 CAD 生成+trimesh 仿真验证，六边形架构 |
-| 2026-08-17 | [JoshFinlayAU/cgdns](https://github.com/JoshFinlayAU/cgdns) | 自研递归引擎的运营商级 DNS：Anycast+DNSSEC+订阅者 ACL |
-| 2026-08-17 | [BrianC0des/termchat](https://github.com/BrianC0des/termchat) | 终端聊天：Bubble Tea TUI + P2P/云双模式，支持 Termux |
-| 2026-08-17 | [kmpbits/skeletal](https://github.com/kmpbits/skeletal) | Compose Multiplatform 自动骨架屏：包一层即生成，无需平行 skeleton UI |
+| 2026-09-22 | [malevrigns/agent-jev](https://github.com/malevrigns/agent-jev) | 0.6B 小模型专做 agent 判断题：一次前向传播输出概率分布，零 token 解码约 50ms |
+| 2026-09-22 | [willwangfr/room-brain](https://github.com/willwangfr/room-brain) | 个人身份图谱"房间大脑"：盯 Instagram/LinkedIn 人生动态，回答"会场里我认识谁" |
+| 2026-09-22 | [woeoio/c3.vb6.pro](https://github.com/woeoio/c3.vb6.pro) | C++17 从零手写 VB6 编译器，老工程直编译原生 x64/x86，零运行时依赖 |
+| 2026-09-22 | [edgedisco/edgedisco](https://github.com/edgedisco/edgedisco) | 端点 AI 资产盘点：探测本机装了哪些 agent/模型/MCP，隐私优先不碰对话 |
+| 2026-09-22 | [gzhao9/CloneDeMocker-v2](https://github.com/gzhao9/CloneDeMocker-v2) | 检测并重构 Java 单测里复制粘贴的 mock 重复，PIT 变异测试验证 |
+| 2026-09-22 | [clouatre-labs/decisions-judge-mcp](https://github.com/clouatre-labs/decisions-judge-mcp) | MCP 工具让 agent 做 typed 判断：yes/no 概率、多选项、打分一次请求 |
+| 2026-09-22 | [wi11song/ai-label-verification-app](https://github.com/wi11song/ai-label-verification-app) | 本地 OCR 核对酒类标签合规，Pass/Fail/待复核，批量审核不传云端 |
+| 2026-09-22 | [jhowbhz/agents-monitor](https://github.com/jhowbhz/agents-monitor) | 像素办公室可视化 agent 会话，token 消耗变成小人搬砖，挂副屏余光感知 |
+| 2026-09-22 | [goodpjw2008/Project_AI-TurnRight](https://github.com/goodpjw2008/Project_AI-TurnRight) | 韩国右转+儿童保护区 3D 驾驶模拟器，AI 按 8958 场景自适应练坏习惯 |
 
 > 每日完整报告见 [daily/](daily/) 目录。数据来源：GitHub Search API。
 
