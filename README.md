@@ -6,25 +6,16 @@
 
 | 日期 | 项目 | 一句话说明 |
 |------|------|------------|
-| 2026-09-24 | [Sharanie0612/Quota](https://github.com/Sharanie0612/Quota) | 多平台大模型余额管家：密钥存系统凭据库，低余额提醒+一键充值，内置模型比价 |
-| 2026-09-24 | [u12138ujkigh/Qwen21-NoOffset-Editing](https://github.com/u12138ujkigh/Qwen21-NoOffset-Editing) | FFT 互相关测出 Qwen 图像编辑的像素偏移，对齐再裁剪像素级修复 |
-| 2026-09-24 | [ShadowWalker2014/rig](https://github.com/ShadowWalker2014/rig) | 每分支一台云桌面跑 dev server+Chrome，本机只跑 agent，闲置休眠秒级唤醒 |
-| 2026-09-24 | [FireChickenMP4/opencode-notify-qq](https://github.com/FireChickenMP4/opencode-notify-qq) | opencode agent 通过 QQ 机器人推消息到手机，离开电脑也能被叫回 |
-| 2026-09-24 | [2805674916/homeward](https://github.com/2805674916/homeward) | 12306 换乘+拆票规划 skill：直达无票时组合方案，核价去重输出离线 HTML 报告 |
-| 2026-09-24 | [neelsatyavolu/redrule](https://github.com/neelsatyavolu/redrule) | macOS 本地会议笔记：自动检测 Zoom/Meet 录音转写，本地模型写总结不出本机 |
-| 2026-09-24 | [DFBlowing/pdf-translation](https://github.com/DFBlowing/pdf-translation) | 英文文献→重排版中文 PDF 的 Agent Skill：公式 KaTeX 矢量重排、脚注双向跳转 |
-| 2026-09-24 | [armangido/af-emulator](https://github.com/armangido/af-emulator) | 停服网游 Assault Fire 私服模拟：还原 TCLS→TGame 启动链，已能进图出生 |
-| 2026-09-24 | [JoshKappler/MOLE](https://github.com/JoshKappler/MOLE) | Go 2D 生存游戏：地下城财富决定剥削关系，鼠标勾索移动+骨架重组美术管线 |
-| 2026-09-24 | [GefeiSHEN/NOAA-Aurora-Archive](https://github.com/GefeiSHEN/NOAA-Aurora-Archive) | git 当数据时间胶囊：Actions 定时归档 NOAA 极光预报，sha256 修订留痕可溯源 |
-| 2026-09-22 | [malevrigns/agent-jev](https://github.com/malevrigns/agent-jev) | 0.6B 小模型专做 agent 判断题：一次前向传播输出概率分布，零 token 解码约 50ms |
-| 2026-09-22 | [willwangfr/room-brain](https://github.com/willwangfr/room-brain) | 个人身份图谱"房间大脑"：盯 Instagram/LinkedIn 人生动态，回答"会场里我认识谁" |
-| 2026-09-22 | [woeoio/c3.vb6.pro](https://github.com/woeoio/c3.vb6.pro) | C++17 从零手写 VB6 编译器，老工程直编译原生 x64/x86，零运行时依赖 |
-| 2026-09-22 | [edgedisco/edgedisco](https://github.com/edgedisco/edgedisco) | 端点 AI 资产盘点：探测本机装了哪些 agent/模型/MCP，隐私优先不碰对话 |
-| 2026-09-22 | [gzhao9/CloneDeMocker-v2](https://github.com/gzhao9/CloneDeMocker-v2) | 检测并重构 Java 单测里复制粘贴的 mock 重复，PIT 变异测试验证 |
-| 2026-09-22 | [clouatre-labs/decisions-judge-mcp](https://github.com/clouatre-labs/decisions-judge-mcp) | MCP 工具让 agent 做 typed 判断：yes/no 概率、多选项、打分一次请求 |
-| 2026-09-22 | [wi11song/ai-label-verification-app](https://github.com/wi11song/ai-label-verification-app) | 本地 OCR 核对酒类标签合规，Pass/Fail/待复核，批量审核不传云端 |
-| 2026-09-22 | [jhowbhz/agents-monitor](https://github.com/jhowbhz/agents-monitor) | 像素办公室可视化 agent 会话，token 消耗变成小人搬砖，挂副屏余光感知 |
-| 2026-09-22 | [goodpjw2008/Project_AI-TurnRight](https://github.com/goodpjw2008/Project_AI-TurnRight) | 韩国右转+儿童保护区 3D 驾驶模拟器，AI 按 8958 场景自适应练坏习惯 |
+| 2026-09-25 | [zorrobyte/icue-link-lcd-reactor](https://github.com/zorrobyte/icue-link-lcd-reactor) | Linux 直驱 Corsair 水冷泵 LCD，实时渲染 vLLM tokens/sec 与 GPU 功耗 17 种效果 |
+| 2026-09-25 | [Chasingnothing/bili-follow-feed](https://github.com/Chasingnothing/bili-follow-feed) | B 站关注动态流油猴脚本：按 UP 分组的卡片墙，彻底绕开推荐流 |
+| 2026-09-25 | [AKAbhinav99/glimpse](https://github.com/AKAbhinav99/glimpse) | Mac 摄像头人脸解锁菜单栏应用，刘海展开 Dynamic Island 动画纯本地 |
+| 2026-09-25 | [Memetrix/gt4-psp-cars-spec-ii](https://github.com/Memetrix/gt4-psp-cars-spec-ii) | 33 辆 GT PSP 车移植进 GT4 Spec II，独立经销商可购买驾驶 |
+| 2026-09-24 | [Nicholas022400701/ulpwise](https://github.com/Nicholas022400701/ulpwise) | ML 数值一致性测试：knife-edge 扫描抓出 torch.sqrt 42% 舍入错误 |
+| 2026-09-24 | [ramesesbarria/groundwork](https://github.com/ramesesbarria/groundwork) | Agent 工作流：错误犯两次变规则、规则被破变阻塞 guard，人工批准才 ship |
+| 2026-09-24 | [justinlindh/human-in-the-loop](https://github.com/justinlindh/human-in-the-loop) | AI 时代软件公司管理模拟游戏，Three.js 等距 3D 办公室浏览器直玩 |
+| 2026-09-24 | [zavayu/snippet](https://github.com/zavayu/snippet) | Windows 划词本地 AI 助手：Ctrl+Shift+Space 光标处 Ollama 流式回答 |
+| 2026-09-24 | [0xOpCode/ByteC](https://github.com/0xOpCode/ByteC) | Termux 一键 C/C++ 环境仅 120MB，编译报错提示学生常见错误 |
+| 2026-09-23 | [alexnodeland/stretto](https://github.com/alexnodeland/stretto) | 把 agent 行为编译成类型化概率流：习惯→轻量模型→LLM→人工逐级解析 |
 
 > 每日完整报告见 [daily/](daily/) 目录。数据来源：GitHub Search API。
 
