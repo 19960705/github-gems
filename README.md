@@ -6,6 +6,16 @@
 
 | 日期 | 项目 | 一句话说明 |
 |------|------|------------|
+| 2026-10-06 | [uchmk/tsumugi](https://github.com/uchmk/tsumugi) | 专为多开 Claude Code 等 AI CLI 会话设计的终端：标签+分屏+等待状态着色，关窗不杀会话 |
+| 2026-10-06 | [ImWuMie/noteblockify](https://github.com/ImWuMie/noteblockify) | 音频/MIDI 转 Minecraft 音符盒歌曲，MLP 学习八度放置、零丢音 |
+| 2026-10-06 | [en3sis/figxit](https://github.com/en3sis/figxit) | Fig 补全功能本地重建版：无账号无 AI 无遥测的终端自动补全弹窗 |
+| 2026-10-06 | [MaiHaobo/Luna](https://github.com/MaiHaobo/Luna) | iOS 应用内虚拟容器：Mach-O 改写为 dylib 在浮层运行任意第三方 App |
+| 2026-10-06 | [bultodepapas/OpenRCsimulator](https://github.com/bultodepapas/OpenRCsimulator) | 开源 RC 航模模拟器：240Hz 六轴气动+真实遥控器支持，Godot 4 |
+| 2026-10-06 | [0xbabyalien/virtual-office](https://github.com/0xbabyalien/virtual-office) | 死亡笔记主题像素办公室作品集，NPC 引导浏览项目与技能 |
+| 2026-10-06 | [chrisqtruong/weather-in-dots](https://github.com/chrisqtruong/weather-in-dots) | 86 年天气生成艺术可视化，暖化条纹+气候漂移对照 |
+| 2026-10-06 | [lidabin52-lgtm/freesume](https://github.com/lidabin52-lgtm/freesume) | AI 简历工作台：JD 匹配改写、投递追踪、网申页一键自动填充 |
+| 2026-10-06 | [ziyadizuhir-png/personal-earprint-engine](https://github.com/ziyadizuhir-png/personal-earprint-engine) | 从 IEM 测量生成个人化耳印目标曲线，供 AutoEQ 下游调音 |
+| 2026-10-06 | [themartiancompany/aapt-ur](https://github.com/themartiancompany/aapt-ur) | DogeOS/UR 包管理器「不可审查」跨平台包镜像与统一 recipe |
 | 2026-09-28 | [JakeB-5/motion-graphic-skill](https://github.com/JakeB-5/motion-graphic-skill) | Claude skill：一段 brief 直接产出节拍同步单文件动效视频，含合成音乐与自动视觉校验 |
 | 2026-09-28 | [wanlonghenry/aiecon](https://github.com/wanlonghenry/aiecon) | AI 成本对账：LiteLLM 遥测与官方报表对账，识别重试/fallback/重复上下文浪费点 |
 | 2026-09-28 | [redwavetop/knowledge-agent](https://github.com/redwavetop/knowledge-agent) | 企业知识库后端全家桶：ES+Milvus+Neo4j 三路流水线混合检索，带语音与团队权限 |
