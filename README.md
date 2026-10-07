@@ -6,6 +6,16 @@
 
 | 日期 | 项目 | 一句话说明 |
 |------|------|------------|
+| 2026-10-07 | [bighipadventure/Stillmotion](https://github.com/bighipadventure/Stillmotion) | 本地 LLM 读 SD 图元数据生成视频提示词并驱动 ComfyUI 出片，全程本机不出网 |
+| 2026-10-07 | [HOWILLMAKEIT/glm-subagent-mcp](https://github.com/HOWILLMAKEIT/glm-subagent-mcp) | MCP 把 Claude Code 子任务转给 GLM 跑，便宜模型执行、贵模型规划省 token |
+| 2026-10-07 | [kmoneil/wrenchroom](https://github.com/kmoneil/wrenchroom) | STEP/几何体紧固件可装配性校验：报告工具可达性与螺丝抽出干涉，可进 CI |
+| 2026-10-07 | [opencoredev/convt](https://github.com/opencoredev/convt) | 右键就地转 40 种格式，FFmpeg/PDFium/LibreOffice 本地引擎 + 多跳转换链 |
+| 2026-10-07 | [craft-ec/craftworks](https://github.com/craft-ec/craftworks) | Freenet 上无服务器应用：loader 按 manifest 装配 sha256 校验的签名包 |
+| 2026-10-07 | [grapedjuice/ytm-rs](https://github.com/grapedjuice/ytm-rs) | 原生 YouTube Music 桌面客户端，Rust+egui 无 Electron，逐字歌词 + 动画封面 |
+| 2026-10-07 | [TaeHagen/Spotify-Android-Good](https://github.com/TaeHagen/Spotify-Android-Good) | Android Spotify 客户端，librespot 经 JNI 本地播放，需 Premium |
+| 2026-10-07 | [turnerburchard/paludarium](https://github.com/turnerburchard/paludarium) | 浏览器水陆缸工作室：程序化植物 + 青蛙鱼类生态，React Three Fiber |
+| 2026-10-07 | [hugelton/Felucca-WebApp](https://github.com/hugelton/Felucca-WebApp) | Web MIDI 给 FM-1 合成器刷固件 / 编辑音色 / 备份，纯浏览器直连硬件 |
+| 2026-10-07 | [tiago500x-ctrl/kappa-test](https://github.com/tiago500x-ctrl/kappa-test) | 中微子等离子体衰减似然比检验，边界混合卡方 p 值 + 合成数据验证 |
 | 2026-10-06 | [uchmk/tsumugi](https://github.com/uchmk/tsumugi) | 专为多开 Claude Code 等 AI CLI 会话设计的终端：标签+分屏+等待状态着色，关窗不杀会话 |
 | 2026-10-06 | [ImWuMie/noteblockify](https://github.com/ImWuMie/noteblockify) | 音频/MIDI 转 Minecraft 音符盒歌曲，MLP 学习八度放置、零丢音 |
 | 2026-10-06 | [en3sis/figxit](https://github.com/en3sis/figxit) | Fig 补全功能本地重建版：无账号无 AI 无遥测的终端自动补全弹窗 |
@@ -16,25 +26,6 @@
 | 2026-10-06 | [lidabin52-lgtm/freesume](https://github.com/lidabin52-lgtm/freesume) | AI 简历工作台：JD 匹配改写、投递追踪、网申页一键自动填充 |
 | 2026-10-06 | [ziyadizuhir-png/personal-earprint-engine](https://github.com/ziyadizuhir-png/personal-earprint-engine) | 从 IEM 测量生成个人化耳印目标曲线，供 AutoEQ 下游调音 |
 | 2026-10-06 | [themartiancompany/aapt-ur](https://github.com/themartiancompany/aapt-ur) | DogeOS/UR 包管理器「不可审查」跨平台包镜像与统一 recipe |
-| 2026-09-28 | [JakeB-5/motion-graphic-skill](https://github.com/JakeB-5/motion-graphic-skill) | Claude skill：一段 brief 直接产出节拍同步单文件动效视频，含合成音乐与自动视觉校验 |
-| 2026-09-28 | [wanlonghenry/aiecon](https://github.com/wanlonghenry/aiecon) | AI 成本对账：LiteLLM 遥测与官方报表对账，识别重试/fallback/重复上下文浪费点 |
-| 2026-09-28 | [redwavetop/knowledge-agent](https://github.com/redwavetop/knowledge-agent) | 企业知识库后端全家桶：ES+Milvus+Neo4j 三路流水线混合检索，带语音与团队权限 |
-| 2026-09-28 | [nermalcat69/nermo](https://github.com/nermalcat69/nermo) | Rust JS 包管理器：全机共享全局包仓库，热重建依赖 0.28s 吊打 bun |
-| 2026-09-28 | [Yirzzzz/Jotrail](https://github.com/Yirzzzz/Jotrail) | 时间线核心本地桌面笔记：事件/待办/状态串成旅程回看，Tauri 2 全本地 |
-| 2026-09-28 | [V9011N/pygame-piano-animator](https://github.com/V9011N/pygame-piano-animator) | MIDI 下落音符配程序化动画双手，beam-search 自动指法、逐个可改 |
-| 2026-09-28 | [usermalik20-del/monster-yard](https://github.com/usermalik20-del/monster-yard) | 独立实现 Backyard Monsters 式 3D 基地建造，确定性状态+D1 云存档 |
-| 2026-09-28 | [mad-gamer26/AudioNet](https://github.com/mad-gamer26/AudioNet) | 低延迟加密网络音频传输，Rust 引擎全平台，全程屏幕阅读器可用 |
-| 2026-09-28 | [ArchSeraphim88/conduit_bender_mvp](https://github.com/ArchSeraphim88/conduit_bender_mvp) | 电工液压弯管计算器：中心线几何公式+型号半径块表+回弹补偿校验 |
-| 2026-09-25 | [zorrobyte/icue-link-lcd-reactor](https://github.com/zorrobyte/icue-link-lcd-reactor) | Linux 直驱 Corsair 水冷泵 LCD，实时渲染 vLLM tokens/sec 与 GPU 功耗 17 种效果 |
-| 2026-09-25 | [Chasingnothing/bili-follow-feed](https://github.com/Chasingnothing/bili-follow-feed) | B 站关注动态流油猴脚本：按 UP 分组的卡片墙，彻底绕开推荐流 |
-| 2026-09-25 | [AKAbhinav99/glimpse](https://github.com/AKAbhinav99/glimpse) | Mac 摄像头人脸解锁菜单栏应用，刘海展开 Dynamic Island 动画纯本地 |
-| 2026-09-25 | [Memetrix/gt4-psp-cars-spec-ii](https://github.com/Memetrix/gt4-psp-cars-spec-ii) | 33 辆 GT PSP 车移植进 GT4 Spec II，独立经销商可购买驾驶 |
-| 2026-09-24 | [Nicholas022400701/ulpwise](https://github.com/Nicholas022400701/ulpwise) | ML 数值一致性测试：knife-edge 扫描抓出 torch.sqrt 42% 舍入错误 |
-| 2026-09-24 | [ramesesbarria/groundwork](https://github.com/ramesesbarria/groundwork) | Agent 工作流：错误犯两次变规则、规则被破变阻塞 guard，人工批准才 ship |
-| 2026-09-24 | [justinlindh/human-in-the-loop](https://github.com/justinlindh/human-in-the-loop) | AI 时代软件公司管理模拟游戏，Three.js 等距 3D 办公室浏览器直玩 |
-| 2026-09-24 | [zavayu/snippet](https://github.com/zavayu/snippet) | Windows 划词本地 AI 助手：Ctrl+Shift+Space 光标处 Ollama 流式回答 |
-| 2026-09-24 | [0xOpCode/ByteC](https://github.com/0xOpCode/ByteC) | Termux 一键 C/C++ 环境仅 120MB，编译报错提示学生常见错误 |
-| 2026-09-23 | [alexnodeland/stretto](https://github.com/alexnodeland/stretto) | 把 agent 行为编译成类型化概率流：习惯→轻量模型→LLM→人工逐级解析 |
 
 > 每日完整报告见 [daily/](daily/) 目录。数据来源：GitHub Search API。
 
