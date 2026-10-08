@@ -6,6 +6,15 @@
 
 | 日期 | 项目 | 一句话说明 |
 |------|------|------------|
+| 2026-10-08 | [MirroS-Lab/AgentGarten](https://github.com/MirroS-Lab/AgentGarten) | 代码驱动的可演化智能体世界 + 学习渲染器，附论文与 HF 权重 |
+| 2026-10-08 | [Krako-Labs/kora-doctor](https://github.com/Krako-Labs/kora-doctor) | 读 agent 轨迹定位可省掉的 LLM 调用，六维成本浪费诊断 |
+| 2026-10-08 | [WhitenWhiten/colp](https://github.com/WhitenWhiten/colp) | 浏览器书签/知识集合的开放 HTTP 协议 + MCP profile |
+| 2026-10-08 | [faramarz/crossword-poster](https://github.com/faramarz/crossword-poster) | 亲友线索自动排成可打印填字海报 PDF，带答案页 |
+| 2026-10-08 | [SamG-Coder/KingdomComeGlueMapper](https://github.com/SamG-Coder/KingdomComeGlueMapper) | 读本地 KCD1 文件重建地形，导进 KCD2 官方模组工具 |
+| 2026-10-08 | [Air-Devs/Air2](https://github.com/Air-Devs/Air2) | 下一代 iOS《我的世界》Java 版启动器，SwiftUI + Metal |
+| 2026-10-08 | [SuperQuail/SC2Miyin-Launcher](https://github.com/SuperQuail/SC2Miyin-Launcher) | SC2 战役/补丁管理器：多版本共存、补丁分层可回滚 |
+| 2026-10-08 | [R2two/R2RETRO](https://github.com/R2two/R2RETRO) | PS4 自制多机种模拟器前端，XMB 界面 + 封面库 |
+| 2026-10-08 | [DrRomanSalvador/coalicion](https://github.com/DrRomanSalvador/coalicion) | 可复现西班牙选举预测，反偏向过滤 + D'Hondt 精确计票 |
 | 2026-10-07 | [bighipadventure/Stillmotion](https://github.com/bighipadventure/Stillmotion) | 本地 LLM 读 SD 图元数据生成视频提示词并驱动 ComfyUI 出片，全程本机不出网 |
 | 2026-10-07 | [HOWILLMAKEIT/glm-subagent-mcp](https://github.com/HOWILLMAKEIT/glm-subagent-mcp) | MCP 把 Claude Code 子任务转给 GLM 跑，便宜模型执行、贵模型规划省 token |
 | 2026-10-07 | [kmoneil/wrenchroom](https://github.com/kmoneil/wrenchroom) | STEP/几何体紧固件可装配性校验：报告工具可达性与螺丝抽出干涉，可进 CI |
